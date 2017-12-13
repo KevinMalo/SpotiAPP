@@ -1,3 +1,9 @@
+# Importante
+
+Para poder utilizar el proyecto correctamente es necesario obtener un token mediante una peticion GUET a https://developer.spotify.com/ y reemplazar la variable token: string = 'su_token'; del spotify.services.ts en la carpeta services.
+
+__________________________________________________________________
+
 # SpotiApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
