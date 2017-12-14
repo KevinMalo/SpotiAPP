@@ -1,7 +1,10 @@
 # Importante
 
-Para poder utilizar el proyecto correctamente es necesario obtener un token mediante una peticion GUET a https://developer.spotify.com/ y reemplazar la variable token: string = 'su_token'; del spotify.services.ts en la carpeta services.
+Para poder utilizar el proyecto correctamente es necesario obtener un token mediante una peticion GUET a [Spotify Developers](https://developer.spotify.com/) y reemplazar la variable token: string = 'su_token'; del spotify.services.ts en la carpeta services.
 
+__________________________________________________________________
+
+![Pro](https://i.imgur.com/Hprza7f.gif)
 __________________________________________________________________
 
 # SpotiApp
